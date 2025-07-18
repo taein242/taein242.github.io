@@ -9,4 +9,4 @@ This repository contains the source code for my personal blog, which is used to 
 
 ## About this repository
 
-> This repository is based on a theme created by [@congchu](https://github.com/congchu/web-porfolio)
+> This repository is based on a theme created by [@congchu](https://github.com/congchu/web-porfolio).
