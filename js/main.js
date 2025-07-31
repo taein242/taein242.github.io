@@ -190,7 +190,7 @@
 					  {
 					    number: num,
 					    numberStep: comma_separator_number_step
-					  }, 3000 //숫자 속도 바꿈.
+					  }, 1000 //숫자 속도 바꿈.
 					);
 				});
 				
