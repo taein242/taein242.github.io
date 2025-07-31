@@ -9262,6 +9262,13 @@ textarea.form-control {
   color: #3e64ff;
   display: block; }
 
+.ftco-counter .text .plus-sign {
+  font-weight: 700;
+  font-size: 30px;
+  color: #3e64ff;
+  display: inline-block; 
+  margin-left: 2px; }
+
 .ftco-counter .text span {
   display: block;
   font-size: 16px;
