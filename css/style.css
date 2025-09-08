@@ -9679,3 +9679,20 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+/* -------------------------------
+Custom: Research Interest
+----------------------------------*/
+.research-interest .block-20.interest-hero{
+  display: block;
+  width: 100%;
+  height: 260px;
+  background-size: cover;
+  background-position: center;
+}
+
+@media (min-width: 992px) {
+  .research-interest .block-20.interest-hero {
+    height: 420px;
+  }
+}
