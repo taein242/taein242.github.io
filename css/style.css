@@ -8694,9 +8694,9 @@ h1, h2, h3, h4, h5,
 
 .page {
   width: 100%;
-  margin-bottom: 7em; }
+  margin-bottom: 4em; }
   .page.five {
-    margin-bottom: 0; } 
+    margin-bottom: 4em; } 
   .page .heading {
     font-weight: 800;
     font-size: 30px;
@@ -9066,6 +9066,10 @@ textarea.form-control {
   @media (max-width: 767.98px) {
     .ftco-section {
       padding: 6em 0; } }
+
+.ftco-section .research-interest {
+    padding-bottom: 0 !important;
+  }
 
 .ftco-no-pt {
   padding-top: 0 !important; }
