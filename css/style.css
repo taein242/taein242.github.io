@@ -9067,7 +9067,7 @@ textarea.form-control {
     .ftco-section {
       padding: 6em 0; } }
 
-.ftco-section .research-interest {
+.ftco-section.research-interest {
     padding-bottom: 0 !important;
   }
 
