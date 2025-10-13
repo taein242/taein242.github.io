@@ -9428,6 +9428,10 @@ textarea.form-control {
       display: block;
       width: 100%; } }
 
+.paper-links .btn + .btn {
+  margin-left: 8px;
+}
+
 .block-9 .form-control {
   outline: none !important;
   -webkit-box-shadow: none !important;
