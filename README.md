@@ -2,7 +2,7 @@
 
 This repository contains the source code for my personal blog, which is used to share my academic interests, research progress, and professional background.
 
-> Blog URL:  <br>
+> Blog URL: https://taein242.github.io/ <br>
 > Field: Psychology
 
 ---
